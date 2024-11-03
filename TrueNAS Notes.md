@@ -76,7 +76,19 @@ Boot & Install TrueNAS VM
  - Enter Authorized Network X.X.X.X
  - Click **SUBMIT**
 
+## Mount TrueNAS NFS Share to Proxmox
+
 TBD
+
+ - In Proxmox, Click **DATACENTER**
+ - Click **STORAGE**
+ - Click **ADD**
+ - Click **NFS**
+ - Enter ID: XXX
+ - Enter Server IP: X.X.X.X
+ - Enter Export: /mnt/XXX/XXX
+ - Choose Content Types (*select all*)
+ - Click **ADD**
 
 TBD
 
