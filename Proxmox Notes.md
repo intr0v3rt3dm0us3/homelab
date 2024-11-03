@@ -57,11 +57,19 @@ source
  - Edit user
  - Edit email
  - Click **NOTIFICATIONS**
+ - *Notification Targets:*
  - Click **ADD**
  - Click **SMTP**
  - Edit SMTP
  - Optional:
 	 - Disable mail-to-root
+ - *Notification Matchers:*
+ - Click ADD
+ - Match Rules:
+	 - Match Field
+	 - Exact
+	 - Notification Type
+	 - package-updates, fencing, replication, vzdump, system-mail
 
 TBD
 
