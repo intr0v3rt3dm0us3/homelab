@@ -48,8 +48,4 @@ source
 
 TBD
 
-
-
 > Written with [StackEdit](https://stackedit.io/).
-
-
