@@ -39,6 +39,20 @@ source
 
 [Proxmox](https://pve.proxmox.com/wiki/Passthrough_Physical_Disk_to_Virtual_Machine_%28VM%29)
 
+Boot & Install TrueNAS VM
+
+## Create Storage Pool
+
+ - Click **STORAGE**
+ - Click **POOLS**
+ - Click **ADD**
+ - Click **CREATE POOL**
+ - Enter a NAME: XXX
+ - Select Available Disks
+ - Click **CREATE**
+
+TBD
+
 TBD
 
 > Written with [StackEdit](https://stackedit.io/).
