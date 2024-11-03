@@ -1,4 +1,4 @@
-﻿Ubuntu Notes
+Ubuntu Notes
 
 How to update Ubuntu
 
@@ -14,3 +14,7 @@ How to change root password
 
 TBD
 
+
+
+
+> Written with [StackEdit](https://stackedit.io/).
