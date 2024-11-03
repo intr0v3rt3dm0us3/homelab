@@ -1,9 +1,7 @@
-# homelab
-homelab
-
-Welcome to my homelab.
+## Welcome to my homelab.
 
 TBD
 
 
 > Written with [StackEdit](https://stackedit.io/).
+
