@@ -46,6 +46,23 @@ source
 
 [Proxmox](https://pve.proxmox.com/wiki/Linux_Container)
 
+## email Notifications
+
+ - Click **DATACENTER**
+ - Click **OPTIONS**
+ - Click **EMAIL FROM ADDRESS**
+ - Edit email from address
+ - Click **PERMISSIONS**
+ - Click **USERS**
+ - Edit user
+ - Edit email
+ - Click **NOTIFICATIONS**
+ - Click **ADD**
+ - Click **SMTP**
+ - Edit SMTP
+ - Optional:
+	 - Disable mail-to-root
+
 TBD
 
 > Written with [StackEdit](https://stackedit.io/).
