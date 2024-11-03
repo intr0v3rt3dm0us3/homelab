@@ -1,7 +1,7 @@
 
-Proxmox Notes
+**Proxmox Notes**
 
-Helper Scripts
+## Helper Scripts
 
 Proxmox VE Post Install
 
@@ -28,8 +28,15 @@ source of helper scripts
 
 [Helper Scripts](https://community-scripts.github.io/Proxmox/)
 
+## cli commands
+
+How to reboot Proxmox
+
+    shutdown -r +1
+
 TBD
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
+
