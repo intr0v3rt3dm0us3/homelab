@@ -34,7 +34,7 @@ How to reboot Proxmox
 
     shutdown -r +1
 
-How to update ProxMox
+How to update Proxmox
 
     apt update -y && apt full-upgrade -y && apt autoremove -y && apt clean -y && apt autoclean -y
 
@@ -42,9 +42,14 @@ How to update available templates
 
     pveam update
 
+source
+
+[Proxmox](https://pve.proxmox.com/wiki/Linux_Container)
+
 TBD
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
+
 
