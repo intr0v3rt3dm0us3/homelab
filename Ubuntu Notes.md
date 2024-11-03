@@ -1,4 +1,6 @@
-Ubuntu Notes
+**Ubuntu Notes**
+
+## cli commands
 
 How to update Ubuntu
 
@@ -18,3 +20,5 @@ TBD
 
 
 > Written with [StackEdit](https://stackedit.io/).
+
+
