@@ -55,6 +55,15 @@ Boot & Install TrueNAS VM
  - Select Available Disks
  - Click **CREATE**
 
+## Create dataset
+
+ - Click **STORAGE**
+ - Click **POOLS**
+ - Find XXX pool created above
+ - Click **ADD DATASET**
+ - Enter a NAME: XXX
+ - Click **SUBMIT**
+
 TBD
 
 TBD
