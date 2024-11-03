@@ -38,8 +38,13 @@ How to update ProxMox
 
     apt update -y && apt full-upgrade -y && apt autoremove -y && apt clean -y && apt autoclean -y
 
+How to update available templates
+
+    pveam update
+
 TBD
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
+
