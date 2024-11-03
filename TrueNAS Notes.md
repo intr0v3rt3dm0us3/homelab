@@ -1,5 +1,9 @@
 **TrueNAS Notes**
 
+***GOAL:***
+
+Create TrueNAS VM in Proxmox and Pass SSD for NFS share to Proxmox for Disk Images, ISO Images, Container templates, VZDump backup files, Containers & Snippets.
+
 [Download TrueNAS Core](https://www.truenas.com/download-truenas-core/)
 
 ## TrueNAS VM
