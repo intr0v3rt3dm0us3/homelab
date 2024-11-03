@@ -21,7 +21,7 @@ List physical IDs
 
     ls -l /dev/disk/by-id/
 
-looking for output
+*looking for output*
 
     ata-XXX_XXX -> ../../sda
 
@@ -35,7 +35,7 @@ Replace 101 above with VM ID
 
 Replace ata-XXX_XXX above with Copy from prior step
 
-looking for output
+*looking for output*
 
 update VM 101: -scsi5 /dev/disk/by-id/ata-XXX_XXX
 
@@ -62,6 +62,18 @@ Boot & Install TrueNAS VM
  - Find XXX pool created above
  - Click **ADD DATASET**
  - Enter a NAME: XXX
+ - Click **SUBMIT**
+
+## Create NFS Share
+
+ - Click **SHARING**
+ - Click **NFS**
+ - Click **ADD**
+ - Find folder /mnt/XXX/XXX and select XXX
+ - Click **ADVANCED OPTIONS**
+ - Select *MAPROOT USER*: root
+ - Select *MAPROOT GROUP*: wheel
+ - Enter Authorized Network X.X.X.X
  - Click **SUBMIT**
 
 TBD
