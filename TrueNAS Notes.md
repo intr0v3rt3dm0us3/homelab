@@ -35,6 +35,10 @@ looking for output
 
 update VM 101: -scsi5 /dev/disk/by-id/ata-XXX_XXX
 
+source
+
+[Proxmox](https://pve.proxmox.com/wiki/Passthrough_Physical_Disk_to_Virtual_Machine_%28VM%29)
+
 TBD
 
 > Written with [StackEdit](https://stackedit.io/).
