@@ -78,8 +78,6 @@ Boot & Install TrueNAS VM
 
 ## Mount TrueNAS NFS Share to Proxmox
 
-TBD
-
  - In Proxmox, Click **DATACENTER**
  - Click **STORAGE**
  - Click **ADD**
