@@ -34,9 +34,12 @@ How to reboot Proxmox
 
     shutdown -r +1
 
+How to update ProxMox
+
+    apt update -y && apt full-upgrade -y && apt autoremove -y && apt clean -y && apt autoclean -y
+
 TBD
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
-
