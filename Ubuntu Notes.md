@@ -1,3 +1,4 @@
+
 **Ubuntu Notes**
 
 ## cli commands
@@ -16,9 +17,4 @@ How to change root password
 
 TBD
 
-
-
-
 > Written with [StackEdit](https://stackedit.io/).
-
-
