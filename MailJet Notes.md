@@ -1,4 +1,4 @@
-﻿MailJet Notes
+**MailJet Notes**
 
 Sample Configuration for using MailJet for homelab email notifications.
 
@@ -33,6 +33,5 @@ Replace smtp_host with your host
 ```
 
 TBD
-
 
 > Written with [StackEdit](https://stackedit.io/).
