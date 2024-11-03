@@ -8,6 +8,15 @@ Create TrueNAS VM in Proxmox and Pass SSD for NFS share to Proxmox for Disk Imag
 
 Replace XXX or X or X.X.X.X with local data
 
+***Optional:***
+
+Remove Pass SSD from backup.
+
+ - Click **HARDWARE** under VM
+ - Click Pass SSD
+ - Click **EDIT**
+ - Uncheck **BACKUP**
+
 [Download TrueNAS Core](https://www.truenas.com/download-truenas-core/)
 
 ## TrueNAS VM
